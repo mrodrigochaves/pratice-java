@@ -1,4 +1,4 @@
-package edu.marciorodrigo.pratice;
+package edu.marciorodrigo.calculator;
 
 public class Loan {
 
