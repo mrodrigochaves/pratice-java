@@ -1,7 +1,6 @@
-/main/**/bin/
-
 bin/
 lib/
+
 
 # Compiled class file
 *.class
