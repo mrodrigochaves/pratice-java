@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         
 
-        System.out.println("Quadrilateral exercices:");
+        System.out.println("Quadrilateral return exercices:");
 
         Quadrilateral.area(3);
         Quadrilateral.area(5,5);
